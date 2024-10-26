@@ -15,7 +15,7 @@ My interests including:
 ## Published research code
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiffAPF&repo=LA-2A&show_owner=true&theme=synthwave)](https://github.com/DiffAPF/LA-2A)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=golf&theme=synthwave)](https://github.com/iamycy/golf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamycy&repo=golf&theme=synthwave)](https://github.com/iamycy/golf)
 
 ## Competitions
 
